@@ -1,6 +1,6 @@
 const App: React.FC = () => {
 	return (
-		<div></div>
+		<h1>Hello World</h1>
 	);
 };
 
